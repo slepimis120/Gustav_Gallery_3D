@@ -1,0 +1,13 @@
+﻿  RG_K2_P6.cpp
+D:\Projekti\Racunarska_Grafika\RG_K2\RG_K2_P6\RG_K2_P6\RG_K2_P6.cpp(149,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projekti\Racunarska_Grafika\RG_K2\RG_K2_P6\RG_K2_P6\RG_K2_P6.cpp(149,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projekti\Racunarska_Grafika\RG_K2\RG_K2_P6\RG_K2_P6\RG_K2_P6.cpp(150,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projekti\Racunarska_Grafika\RG_K2\RG_K2_P6\RG_K2_P6\RG_K2_P6.cpp(150,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projekti\Racunarska_Grafika\RG_K2\RG_K2_P6\RG_K2_P6\RG_K2_P6.cpp(151,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projekti\Racunarska_Grafika\RG_K2\RG_K2_P6\RG_K2_P6\RG_K2_P6.cpp(151,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projekti\Racunarska_Grafika\RG_K2\RG_K2_P6\RG_K2_P6\RG_K2_P6.cpp(152,10): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projekti\Racunarska_Grafika\RG_K2\RG_K2_P6\RG_K2_P6\RG_K2_P6.cpp(152,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Projekti\Racunarska_Grafika\RG_K2\RG_K2_P6\RG_K2_P6\RG_K2_P6.cpp(269,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  RG_K2_P6.vcxproj -> D:\Projekti\Racunarska_Grafika\RG_K2\RG_K2_P6\x64\Debug\RG_K2_P6.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
