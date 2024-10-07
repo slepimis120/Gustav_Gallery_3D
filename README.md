@@ -43,7 +43,7 @@ The "Gustav" project is a 3D interactive scene developed using **OpenGL**, showc
 
 1. Clone the repository:
    ```bash
-   git clone <repo_link>
+   git clone https://github.com/slepimis120/Gustav_Gallery_3D/
    ```
 
 2. Open the project in Visual Studio.
